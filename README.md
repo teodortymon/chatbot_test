@@ -1,4 +1,6 @@
 <div class="mcwidget-embed" data-widget-id="8074076"></div>
+<!-- ManyChat -->
+<script src="//widget.manychat.com/623368051353658.js" async="async"></script>
 
 ## Welcome to GitHub Pages
 
